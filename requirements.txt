@@ -1,0 +1,8 @@
+flask
+tensorflow
+opencv-python
+numpy
+reportlab
+Pillow
+pandas
+streamlit
